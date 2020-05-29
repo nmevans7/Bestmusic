@@ -1,0 +1,2 @@
+class Bestmusic < ApplicationRecord
+end
